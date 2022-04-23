@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cGH2m62sLhpRVxyeEaRwcRbb0TnGCCdGF/t38enQX2vyAfDL4D6wvwB7K8OWhpF8x/toe+sEVRF9unbkoNuBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nsh82\\source\\repos\\TesProject\\TesProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nsh82\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
